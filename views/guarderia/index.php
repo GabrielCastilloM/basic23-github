@@ -11,7 +11,7 @@ use yii\helpers\ArrayHelper;
 /* @var $searchModel app\models\GuarderiaSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Guarderias';
+$this->title = 'Guarderias esta bien arreglado en la rama hotfix';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="guarderia-index">
