@@ -14,6 +14,7 @@ use yii\helpers\ArrayHelper;
 $this->title = 'Guarderias';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
+<h1>probando stash para guardar cambios temporalmente</h1>
 <div class="guarderia-index">
 
     <h1><?= Html::encode($this->title) ?></h1>
